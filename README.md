@@ -25,4 +25,4 @@ This cipher is also known as [Caesar cipher](https://en.wikipedia.org/wiki/Caesa
 
 <a href="https://lucaslouca.com/wp-content/uploads/2017/02/sop-decryptor-context-menu-screenshot.png"><img src="https://lucaslouca.com/wp-content/uploads/2017/02/sop-decryptor-context-menu-screenshot.png" alt="" width="256" class="aligncenter size-full wp-image-1620" /></a>
 
-The source code is available [here](https://github.com/lucaslouca/sop-decryptor). If you don't know how to temporary install a Firefox extension you can refer to this [guide](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox).
+If you don't know how to temporary install a Firefox extension you can refer to this [guide](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox).
